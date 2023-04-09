@@ -1,0 +1,91 @@
+Greedy Algorithms
+Stacks & Queues
+  LRU Cache using Queue
+  Queue for BFS
+  Operations on Queue
+  Stacks for DFS
+  Call Stack for recursion
+  Maintaining the minimum or maximum of a set of data using Stacks
+  Types of Queues (Priority, Circular..)
+  Operations on Stack
+Maps
+Sets
+Hash Maps
+Graphs
+  Implement using adjacency matrix
+  Implement using Nodes and references
+  Implement using Adjacency Lists
+  Depth First Search
+  Breadth First Search
+Trees
+Tries
+Combinations
+Permutation
+Divide & Conquer
+Sorting
+  Topological Sort
+  Implement Quick Sort
+  Implement Merge Sort
+  Counting Sort
+Searching
+Two Pointers
+Backtracking
+Disjoint Set
+Dijkstra
+Time Complexity
+Space Complexity
+Recursion
+Heaps - Min / Max
+Quick Select
+Hash Tables
+  Grow and Shrink
+  Implement a hash table
+  Collision Handling
+Binary Search Tree
+  Watch MIT Course https://www.youtube.com/watch?v=9Jry5-82I68
+  Read chapter 4 of Cracking the Coding Interview 6th Edition
+  Read this article https://www.geeksforgeeks.org/binary-search-tree-data-structure/
+  Learn more detail about deleting nodes from a tree
+  Implement a BST
+Linked List
+  Know how to iterate through a linked list by being given a head node
+  Delete or insert an item from a linked list
+  Manage multiple pointers
+  Implement the runner technique
+  Reverse a linked list
+  Delete an item from the tail
+  Find an item
+  Determine if there are duplicates
+  Determine if there is a cycle
+  Merge multiple linked lists
+Array
+  Insertion (End, Begin, Random, At Index, Before Index, After Index)
+  Deletion (End, Begin, Random)
+  Update an Item (End, Begin, Random)
+  Dynamic Arrays (https://www.interviewcake.com/article/python/data-structures-coding-interview?course=dsa#ram)
+  Nested Arrays
+String - Integer
+LRU Cache
+Bellman Ford
+Sliding Window
+Skip List
+Power Set
+Random Access Memory
+Binary Numbers
+Strings
+Pointers
+Fixed-Width Integers
+OS Details
+Factorial
+Adding huge numbers (that can’t fit into memory)
+Addition/Subtraction/Multiplication/Division without using operators
+A-star (rare)
+Reservoir Sampling
+Bit Manipulation (AND, NOT, OR, XOR)
+data structures, algorithms and design patterns.
+Backtracking - https://www.student.cs.uwaterloo.ca/~cs135/handouts/12-graphs-post3up.pdf
+Dynamic Programming
+  http://www.youtube.com/embed/W2ote4jCuYw?rel=0
+  Geeks For Geeks Dynamic Programing Set (http://www.geeksforgeeks.org/fundamentals-of-algorithms/#DynamicProgramming)
+  Edit Distance
+  Manage Pointer - High Level Understand
